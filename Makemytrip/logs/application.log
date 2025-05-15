@@ -1,0 +1,829 @@
+2025-02-11 16:12:05 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-02-11 16:12:05 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-02-11 16:12:09 [main] INFO  LibraryFiles.BaseClass - Navigating to URL: "https://www.makemytrip.com/"
+2025-02-11 16:16:23 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-02-11 16:16:23 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-02-11 16:16:32 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Browser initialized successfully.
+2025-02-11 16:16:32 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Initialize Page Object after browser launch
+2025-02-11 16:16:32 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ POM Objects created ------
+2025-02-11 16:20:50 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-02-11 16:20:50 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-02-11 16:20:54 [main] INFO  LibraryFiles.BaseClass - Navigating to URL: "https://www.makemytrip.com/"
+2025-02-11 16:33:43 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-02-11 16:33:43 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-02-11 16:33:47 [main] INFO  LibraryFiles.BaseClass - Navigating to URL: "https://www.makemytrip.com/"
+2025-02-11 17:07:33 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-02-11 17:07:33 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-02-11 17:07:38 [main] INFO  LibraryFiles.BaseClass - Navigating to URL: "https://www.makemytrip.com/"
+2025-02-11 17:08:30 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-02-11 17:08:30 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-02-11 17:08:40 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Browser initialized successfully.
+2025-02-11 17:08:40 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Initialize Page Object after browser launch
+2025-02-11 17:08:40 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ POM Objects created ------
+2025-02-13 11:39:54 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-02-13 11:39:54 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-02-13 11:40:03 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Browser initialized successfully.
+2025-02-13 11:40:03 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Initialize Page Object after browser launch
+2025-02-13 11:40:03 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ POM Objects created ------
+2025-02-13 12:21:00 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-02-13 12:21:00 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ Initializing Browser ------
+2025-02-13 12:21:06 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Browser initialized successfully.
+2025-02-13 12:21:06 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Initialize Page Object after browser launch
+2025-02-13 12:21:06 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ POM Objects created ------
+2025-02-13 12:36:01 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-02-13 12:36:01 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ Initializing Browser ------
+2025-02-13 12:36:09 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Browser initialized successfully.
+2025-02-13 12:36:09 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Initialize Page Object after browser launch
+2025-02-13 12:36:09 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ POM Objects created ------
+2025-02-13 12:36:45 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-02-13 12:36:45 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ Initializing Browser ------
+2025-02-13 12:36:52 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Browser initialized successfully.
+2025-02-13 12:36:52 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Initialize Page Object after browser launch
+2025-02-13 12:36:52 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ POM Objects created ------
+2025-02-13 12:39:39 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-02-13 12:39:58 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-02-13 12:39:58 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-02-13 12:40:09 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Browser initialized successfully.
+2025-02-13 12:40:09 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Initialize Page Object after browser launch
+2025-02-13 12:40:09 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ POM Objects created ------
+2025-02-13 12:46:15 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-02-13 12:46:46 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-02-13 12:48:02 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-02-13 12:48:02 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ Initializing Browser ------
+2025-02-13 12:48:10 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Browser initialized successfully.
+2025-02-13 12:48:10 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Initialize Page Object after browser launch
+2025-02-13 12:48:10 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ POM Objects created ------
+2025-02-13 13:10:26 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-02-13 13:11:53 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-02-13 13:11:54 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-02-13 13:12:02 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Browser initialized successfully.
+2025-02-13 13:12:02 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Initialize Page Object after browser launch
+2025-02-13 13:12:02 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ POM Objects created ------
+2025-02-13 13:12:30 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-02-13 13:12:30 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-02-13 13:12:36 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Browser initialized successfully.
+2025-02-13 13:12:36 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Initialize Page Object after browser launch
+2025-02-13 13:12:36 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ POM Objects created ------
+2025-02-13 13:15:21 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-02-13 13:15:21 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-02-13 13:15:27 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Browser initialized successfully.
+2025-02-13 13:15:27 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Initialize Page Object after browser launch
+2025-02-13 13:15:27 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ POM Objects created ------
+2025-02-13 13:20:13 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-02-13 13:20:13 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-02-13 13:20:19 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Browser initialized successfully.
+2025-02-13 13:20:19 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Initialize Page Object after browser launch
+2025-02-13 13:20:19 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ POM Objects created ------
+2025-02-13 14:09:01 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-02-13 14:09:01 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-02-13 14:09:06 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Browser initialized successfully.
+2025-02-13 14:09:06 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Initialize Page Object after browser launch
+2025-02-13 14:09:07 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ POM Objects created ------
+2025-02-13 14:11:10 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-02-13 14:11:10 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-02-13 14:11:19 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Browser initialized successfully.
+2025-02-13 14:11:19 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Initialize Page Object after browser launch
+2025-02-13 14:11:19 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ POM Objects created ------
+2025-02-13 14:11:30 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-02-13 14:11:30 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-02-13 14:11:37 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Browser initialized successfully.
+2025-02-13 14:11:37 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Initialize Page Object after browser launch
+2025-02-13 14:11:37 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ POM Objects created ------
+2025-02-13 14:12:30 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-02-13 14:12:30 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-02-13 14:12:35 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Browser initialized successfully.
+2025-02-13 14:12:35 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Initialize Page Object after browser launch
+2025-02-13 14:12:35 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ POM Objects created ------
+2025-02-13 14:13:24 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-02-13 14:13:24 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-02-13 14:13:32 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Browser initialized successfully.
+2025-02-13 14:13:32 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Initialize Page Object after browser launch
+2025-02-13 14:13:32 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ POM Objects created ------
+2025-02-13 14:27:51 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-02-13 14:27:51 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-02-13 14:27:57 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Browser initialized successfully.
+2025-02-13 14:27:57 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Initialize Page Object after browser launch
+2025-02-13 14:27:57 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ POM Objects created ------
+2025-02-13 14:28:51 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-02-13 14:28:51 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ Initializing Browser ------
+2025-02-13 14:28:58 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Browser initialized successfully.
+2025-02-13 14:28:58 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Initialize Page Object after browser launch
+2025-02-13 14:28:58 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ POM Objects created ------
+2025-02-13 14:28:58 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Clicking on the fromdate
+2025-02-13 14:29:04 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Extent Report Generated Successfully!
+2025-02-13 14:29:04 [main] ERROR module_launch_Test.MakeMyTripRootselectionTest - Test Failed: root
+2025-02-13 14:29:19 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-02-13 14:29:19 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ Initializing Browser ------
+2025-02-13 14:29:26 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Browser initialized successfully.
+2025-02-13 14:29:26 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Initialize Page Object after browser launch
+2025-02-13 14:29:26 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ POM Objects created ------
+2025-02-13 14:29:26 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Clicking on the fromdate
+2025-02-13 14:29:31 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Extent Report Generated Successfully!
+2025-02-13 14:29:31 [main] ERROR module_launch_Test.MakeMyTripRootselectionTest - Test Failed: root
+2025-02-13 14:29:53 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-02-13 14:30:22 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-02-13 14:30:41 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-02-13 14:30:58 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-02-13 14:31:19 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-02-13 14:31:51 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-02-18 00:00:55 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-02-18 00:00:55 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-02-18 00:01:11 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Browser initialized successfully.
+2025-02-18 00:01:11 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Initialize Page Object after browser launch
+2025-02-18 00:01:11 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ POM Objects created ------
+2025-02-18 00:01:49 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-02-18 00:01:49 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-02-18 00:01:54 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Browser initialized successfully.
+2025-02-18 00:01:54 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Initialize Page Object after browser launch
+2025-02-18 00:01:54 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ POM Objects created ------
+2025-02-20 22:33:01 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-02-20 22:33:01 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-02-20 22:33:06 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Browser initialized successfully.
+2025-02-20 22:33:06 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Initialize Page Object after browser launch
+2025-02-20 22:33:06 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ POM Objects created ------
+2025-02-20 22:36:45 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-02-20 22:36:46 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ Initializing Browser ------
+2025-02-20 22:36:52 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Browser initialized successfully.
+2025-02-20 22:36:52 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Initialize Page Object after browser launch
+2025-02-20 22:36:52 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ POM Objects created ------
+2025-02-20 22:36:52 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Clicking on the fromdate
+2025-02-20 22:38:24 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-02-20 22:38:24 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ Initializing Browser ------
+2025-02-20 22:38:29 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Browser initialized successfully.
+2025-02-20 22:38:29 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Initialize Page Object after browser launch
+2025-02-20 22:38:29 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ POM Objects created ------
+2025-02-20 22:38:29 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Clicking on the fromdate
+2025-03-06 22:24:29 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-03-06 22:24:29 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-03-06 22:24:38 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Browser initialized successfully.
+2025-03-06 22:24:38 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Initialize Page Object after browser launch
+2025-03-06 22:24:38 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ POM Objects created ------
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 30 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 25 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:13:01 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse--540041561\testng-customsuite.xml
+
+2025-03-07 23:13:02 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-03-07 23:13:02 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 55 ms.
+2025-03-07 23:13:02 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-03-07 23:13:10 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Browser initialized successfully.
+2025-03-07 23:13:10 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Initialize Page Object after browser launch
+2025-03-07 23:13:10 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ POM Objects created ------
+2025-03-07 23:13:12 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@bc4d5e1: 0 ms
+2025-03-07 23:13:12 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@4992613f: 59 ms
+2025-03-07 23:13:12 [main] ERROR org.testng.reporters.jq.Main - D:\AutomationTestonly\Makemytrip\test-output\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: D:\AutomationTestonly\Makemytrip\test-output\jquery-3.6.0.min.js
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at java.nio.file.Files.copy(Files.java:3140) ~[?:?]
+	at org.testng.reporters.jq.Main.generateReport(Main.java:93) [testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.generateReports(TestNG.java:1134) [testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.run(TestNG.java:1072) [testng-7.6.0.jar:7.6.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-03-07 23:13:13 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2ca5f1ed: 187 ms
+2025-03-07 23:13:13 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6c03fb16: 2 ms
+2025-03-07 23:13:13 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@58e92c23: 10 ms
+2025-03-07 23:13:13 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@50acf55d: 13 ms
+2025-03-07 23:13:13 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@301aa982: 9 ms
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 34 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 28 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse-1035059139\testng-customsuite.xml
+
+2025-03-07 23:14:23 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-03-07 23:14:23 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2025-03-07 23:14:23 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ Initializing Browser ------
+2025-03-07 23:14:30 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Browser initialized successfully.
+2025-03-07 23:14:30 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Initialize Page Object after browser launch
+2025-03-07 23:14:30 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ POM Objects created ------
+2025-03-07 23:14:30 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Clicking on the fromdate
+2025-03-07 23:14:33 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@21a66d45: 0 ms
+2025-03-07 23:14:33 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@6a0ac48e: 62 ms
+2025-03-07 23:14:33 [main] ERROR org.testng.reporters.jq.Main - D:\AutomationTestonly\Makemytrip\test-output\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: D:\AutomationTestonly\Makemytrip\test-output\jquery-3.6.0.min.js
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at java.nio.file.Files.copy(Files.java:3140) ~[?:?]
+	at org.testng.reporters.jq.Main.generateReport(Main.java:93) [testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.generateReports(TestNG.java:1134) [testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.run(TestNG.java:1072) [testng-7.6.0.jar:7.6.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-03-07 23:14:33 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@351e414e: 115 ms
+2025-03-07 23:14:33 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@540a903b: 66 ms
+2025-03-07 23:14:33 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7a7d1b47: 28 ms
+2025-03-07 23:14:33 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@36f1046f: 21 ms
+2025-03-07 23:14:33 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5c10285a: 24 ms
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 16 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-07 23:23:32 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse-1324371699\testng-customsuite.xml
+
+2025-03-07 23:23:33 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-03-07 23:23:33 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+2025-03-07 23:23:33 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ Initializing Browser ------
+2025-03-07 23:23:42 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Browser initialized successfully.
+2025-03-07 23:23:42 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Initialize Page Object after browser launch
+2025-03-07 23:23:42 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ POM Objects created ------
+2025-03-07 23:23:46 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@442f92e6: 0 ms
+2025-03-07 23:23:46 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@6a0cbc6f: 57 ms
+2025-03-07 23:23:47 [main] ERROR org.testng.reporters.jq.Main - D:\AutomationTestonly\Makemytrip\test-output\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: D:\AutomationTestonly\Makemytrip\test-output\jquery-3.6.0.min.js
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at java.nio.file.Files.copy(Files.java:3140) ~[?:?]
+	at org.testng.reporters.jq.Main.generateReport(Main.java:93) [testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.generateReports(TestNG.java:1134) [testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.run(TestNG.java:1072) [testng-7.6.0.jar:7.6.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-03-07 23:23:47 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@100c567f: 76 ms
+2025-03-07 23:23:47 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@30c0d731: 6 ms
+2025-03-07 23:23:47 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3bbf9027: 14 ms
+2025-03-07 23:23:47 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@32f0c7f8: 10 ms
+2025-03-07 23:23:47 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@19058533: 12 ms
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 22 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse--832962911\testng-customsuite.xml
+
+2025-03-08 19:22:22 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-03-08 19:22:22 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2025-03-08 19:22:22 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ Initializing Browser ------
+2025-03-08 19:22:29 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Browser initialized successfully.
+2025-03-08 19:22:29 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Initialize Page Object after browser launch
+2025-03-08 19:22:29 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ POM Objects created ------
+2025-03-08 19:22:34 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@442f92e6: 0 ms
+2025-03-08 19:22:34 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@6a0cbc6f: 55 ms
+2025-03-08 19:22:34 [main] ERROR org.testng.reporters.jq.Main - D:\AutomationTestonly\Makemytrip\test-output\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: D:\AutomationTestonly\Makemytrip\test-output\jquery-3.6.0.min.js
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at java.nio.file.Files.copy(Files.java:3140) ~[?:?]
+	at org.testng.reporters.jq.Main.generateReport(Main.java:93) [testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.generateReports(TestNG.java:1134) [testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.run(TestNG.java:1072) [testng-7.6.0.jar:7.6.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-03-08 19:22:34 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@100c567f: 70 ms
+2025-03-08 19:22:34 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@30c0d731: 3 ms
+2025-03-08 19:22:34 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3bbf9027: 12 ms
+2025-03-08 19:22:34 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@32f0c7f8: 12 ms
+2025-03-08 19:22:34 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@19058533: 15 ms
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse--1362872705\testng-customsuite.xml
+
+2025-03-08 19:23:51 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-03-08 19:23:51 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-03-08 19:23:51 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ Initializing Browser ------
+2025-03-08 19:23:56 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Browser initialized successfully.
+2025-03-08 19:23:56 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Initialize Page Object after browser launch
+2025-03-08 19:23:56 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ POM Objects created ------
+2025-03-08 19:24:02 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2264e43c: 0 ms
+2025-03-08 19:24:02 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@7c1c5936: 101 ms
+2025-03-08 19:24:02 [main] ERROR org.testng.reporters.jq.Main - D:\AutomationTestonly\Makemytrip\test-output\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: D:\AutomationTestonly\Makemytrip\test-output\jquery-3.6.0.min.js
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at java.nio.file.Files.copy(Files.java:3140) ~[?:?]
+	at org.testng.reporters.jq.Main.generateReport(Main.java:93) [testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.generateReports(TestNG.java:1134) [testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.run(TestNG.java:1072) [testng-7.6.0.jar:7.6.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-03-08 19:24:03 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@71f96dfb: 150 ms
+2025-03-08 19:24:03 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5d1b9c3d: 0 ms
+2025-03-08 19:24:03 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1eb2d371: 44 ms
+2025-03-08 19:24:03 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3491e86e: 19 ms
+2025-03-08 19:24:03 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2eaef76d: 18 ms
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse-285190882\testng-customsuite.xml
+
+2025-03-21 20:34:41 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-03-21 20:34:41 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2025-03-21 20:34:41 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-03-21 20:34:59 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Browser initialized successfully.
+2025-03-21 20:34:59 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Initialize Page Object after browser launch
+2025-03-21 20:34:59 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ POM Objects created ------
+2025-03-21 20:35:02 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@bc4d5e1: 0 ms
+2025-03-21 20:35:02 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@4992613f: 70 ms
+2025-03-21 20:35:02 [main] ERROR org.testng.reporters.jq.Main - D:\AutomationTestonly\Makemytrip\test-output\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: D:\AutomationTestonly\Makemytrip\test-output\jquery-3.6.0.min.js
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at java.nio.file.Files.copy(Files.java:3140) ~[?:?]
+	at org.testng.reporters.jq.Main.generateReport(Main.java:93) [testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.generateReports(TestNG.java:1134) [testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.run(TestNG.java:1072) [testng-7.6.0.jar:7.6.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-03-21 20:35:02 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2ca5f1ed: 77 ms
+2025-03-21 20:35:02 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6c03fb16: 0 ms
+2025-03-21 20:35:02 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@58e92c23: 7 ms
+2025-03-21 20:35:02 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@50acf55d: 13 ms
+2025-03-21 20:35:02 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@301aa982: 6 ms
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 24 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 25 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse-1144027048\testng-customsuite.xml
+
+2025-03-21 20:35:25 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-03-21 20:35:25 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 19 ms.
+2025-03-21 20:35:25 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ Initializing Browser ------
+2025-03-21 20:35:32 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Browser initialized successfully.
+2025-03-21 20:35:32 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Initialize Page Object after browser launch
+2025-03-21 20:35:32 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ POM Objects created ------
+2025-03-21 20:35:38 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2264e43c: 0 ms
+2025-03-21 20:35:38 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@7c1c5936: 109 ms
+2025-03-21 20:35:38 [main] ERROR org.testng.reporters.jq.Main - D:\AutomationTestonly\Makemytrip\test-output\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: D:\AutomationTestonly\Makemytrip\test-output\jquery-3.6.0.min.js
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at java.nio.file.Files.copy(Files.java:3140) ~[?:?]
+	at org.testng.reporters.jq.Main.generateReport(Main.java:93) [testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.generateReports(TestNG.java:1134) [testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.run(TestNG.java:1072) [testng-7.6.0.jar:7.6.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-03-21 20:35:38 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@71f96dfb: 92 ms
+2025-03-21 20:35:38 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5d1b9c3d: 2 ms
+2025-03-21 20:35:38 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1eb2d371: 14 ms
+2025-03-21 20:35:38 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3491e86e: 10 ms
+2025-03-21 20:35:38 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2eaef76d: 50 ms
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 29 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 32 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:50:52 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse-184356138\testng-customsuite.xml
+
+2025-04-06 13:50:52 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-04-06 13:50:53 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 17 ms.
+2025-04-06 13:50:53 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-04-06 13:51:01 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Browser initialized successfully.
+2025-04-06 13:51:01 [main] INFO  module_launch_Test.MakemyTripLaunchTest - Initialize Page Object after browser launch
+2025-04-06 13:51:01 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ POM Objects created ------
+2025-04-06 13:51:04 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@345cf395: 1 ms
+2025-04-06 13:51:05 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@7ce9e05a: 213 ms
+2025-04-06 13:51:05 [main] ERROR org.testng.reporters.jq.Main - D:\AutomationTestonly\Makemytrip\test-output\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: D:\AutomationTestonly\Makemytrip\test-output\jquery-3.6.0.min.js
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at java.nio.file.Files.copy(Files.java:3140) ~[?:?]
+	at org.testng.reporters.jq.Main.generateReport(Main.java:93) [testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.generateReports(TestNG.java:1134) [testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.run(TestNG.java:1072) [testng-7.6.0.jar:7.6.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-04-06 13:51:05 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@67c119b7: 215 ms
+2025-04-06 13:51:05 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2ca5f1ed: 4 ms
+2025-04-06 13:51:05 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4b2d44bc: 29 ms
+2025-04-06 13:51:05 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1e008f36: 44 ms
+2025-04-06 13:51:05 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7ae9a33a: 25 ms
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 30 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 32 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse-56912307\testng-customsuite.xml
+
+2025-04-06 13:51:53 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-04-06 13:51:53 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 14 ms.
+2025-04-06 13:51:53 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ Initializing Browser ------
+2025-04-06 13:52:01 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Browser initialized successfully.
+2025-04-06 13:52:01 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Initialize Page Object after browser launch
+2025-04-06 13:52:01 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ POM Objects created ------
+2025-04-06 13:52:09 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@31da3d60: 0 ms
+2025-04-06 13:52:09 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@3ac8cf9b: 77 ms
+2025-04-06 13:52:09 [main] ERROR org.testng.reporters.jq.Main - D:\AutomationTestonly\Makemytrip\test-output\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: D:\AutomationTestonly\Makemytrip\test-output\jquery-3.6.0.min.js
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at java.nio.file.Files.copy(Files.java:3140) ~[?:?]
+	at org.testng.reporters.jq.Main.generateReport(Main.java:93) [testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.generateReports(TestNG.java:1134) [testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.run(TestNG.java:1072) [testng-7.6.0.jar:7.6.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-04-06 13:52:09 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@69e05f61: 133 ms
+2025-04-06 13:52:09 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@49a26d19: 2 ms
+2025-04-06 13:52:09 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@479f2dc2: 21 ms
+2025-04-06 13:52:09 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@409986fe: 16 ms
+2025-04-06 13:52:09 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@34819867: 15 ms
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 27 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 31 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse-1500059459\testng-customsuite.xml
+
+2025-04-06 13:53:19 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ===== Test Suite Execution Started =====
+2025-04-06 13:53:19 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+2025-04-06 13:53:19 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ Initializing Browser ------
+2025-04-06 13:53:26 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Browser initialized successfully.
+2025-04-06 13:53:26 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - Initialize Page Object after browser launch
+2025-04-06 13:53:26 [main] INFO  module_launch_Test.MakeMyTripRootselectionTest - ------ POM Objects created ------
+2025-04-06 13:53:32 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2264e43c: 0 ms
+2025-04-06 13:53:32 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@7c1c5936: 114 ms
+2025-04-06 13:53:32 [main] ERROR org.testng.reporters.jq.Main - D:\AutomationTestonly\Makemytrip\test-output\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: D:\AutomationTestonly\Makemytrip\test-output\jquery-3.6.0.min.js
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at java.nio.file.Files.copy(Files.java:3140) ~[?:?]
+	at org.testng.reporters.jq.Main.generateReport(Main.java:93) [testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.generateReports(TestNG.java:1134) [testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.run(TestNG.java:1072) [testng-7.6.0.jar:7.6.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-04-06 13:53:32 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@71f96dfb: 169 ms
+2025-04-06 13:53:32 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5d1b9c3d: 1 ms
+2025-04-06 13:53:32 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1eb2d371: 27 ms
+2025-04-06 13:53:32 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3491e86e: 15 ms
+2025-04-06 13:53:32 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2eaef76d: 13 ms
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 14 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-24 13:16:23 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse-777081660\testng-customsuite.xml
+
+2025-04-24 13:16:24 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ===== Test Suite Execution Started =====
+2025-04-24 13:16:24 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+2025-04-24 13:16:24 [main] INFO  module_launch_Test.MakemyTripLaunchTest - ------ Initializing Browser ------
+2025-04-24 13:16:28 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@773e2eb5: 0 ms
+2025-04-24 13:16:28 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@4074023c: 65 ms
+2025-04-24 13:16:28 [main] ERROR org.testng.reporters.jq.Main - D:\AutomationTestonly\Makemytrip\test-output\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: D:\AutomationTestonly\Makemytrip\test-output\jquery-3.6.0.min.js
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at java.nio.file.Files.copy(Files.java:3140) ~[?:?]
+	at org.testng.reporters.jq.Main.generateReport(Main.java:93) [testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.generateReports(TestNG.java:1134) [testng-7.6.0.jar:7.6.0]
+	at org.testng.TestNG.run(TestNG.java:1072) [testng-7.6.0.jar:7.6.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-04-24 13:16:28 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3350ebdd: 114 ms
+2025-04-24 13:16:28 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4a5905d9: 29 ms
+2025-04-24 13:16:28 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@e344ad3: 26 ms
+2025-04-24 13:16:28 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@314ed053: 21 ms
+2025-04-24 13:16:28 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@421a4ee1: 28 ms
